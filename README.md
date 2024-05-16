@@ -7,4 +7,4 @@ TP 3
 1.c)Tras borrar los "#", el tiempo de ejecución, en mi caso, aumentó a 3 segundos pero con milisegundos no exactos entre sí y, arrojó otros resultados. Con los "#" en el código
 el valor era 0, pero luego de borrarlos, este cambió a 5000. Esto sucede ya que al no estar los comentarios, se ejecuta una función que hace que esto tarde más.
 
-2.b) ![TP 3 ArqSis](https://github.com/ailuv002/ASO2024TPs/assets/167357340/f596c0f4-914d-4fd1-bbc0-3148fad82f61)
+
