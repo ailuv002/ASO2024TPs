@@ -5,4 +5,4 @@
 1.c)Tras borrar los "#", el tiempo de ejecución, en mi caso, aumentó a 3 segundos pero con milisegundos no exactos entre sí y, arrojó otros resultados. Con los "#" en el código
 el valor era 0, pero luego de borrarlos, este cambió a 5000.
 
-2)
+2.b) ![TP 3 ArqSis](https://github.com/ailuv002/ASO2024TPs/assets/167357340/0be266d2-a459-4c4d-b05a-9080efea3dc4)
