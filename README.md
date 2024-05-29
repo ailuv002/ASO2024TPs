@@ -4,8 +4,6 @@ TP 3
 
 1.b)Analizando con un compañero, los tiempos de ejecución no son iguales, por diferencia de milisegundos.
 
-1.c)Tras borrar los "#", el tiempo de ejecución, en mi caso, aumentó a 3 segundos pero con milisegundos no exactos entre sí y, arrojó otros resultados. Con los "#" en el código
-el valor era 0, pero luego 
-de borrarlos, este cambió a 5000. Esto sucede ya que al no estar los comentarios, se ejecuta una función que hace que esto tarde más.
+1.c)Luego de esto, lo que sucedió es que al estar los dos hilos usando la misma variable global, provoca un error, y tanto el comentado como el que no, hacen que suceda "race condition" por las dos operaciones en simultáneo.
 
 2.b) ![TP 3 ArqSis](https://github.com/ailuv002/ASO2024TPs/assets/167357340/02792158-5e95-47d7-952e-9485ade11889)
